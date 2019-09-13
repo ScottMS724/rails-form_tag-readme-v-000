@@ -7,8 +7,6 @@ describe 'new post' do
   end
 end
 
-require 'rails_helper'
- 
 describe 'new post' do
  
   ...
